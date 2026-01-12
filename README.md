@@ -5,6 +5,7 @@ This project enables capturing still images or frame data from an embedded camer
 The Arduino sketch (Test.ino) initializes the camera hardware and streams captured image data over USB/Serial to a host computer. On the computer, a Python script (grab_arducam_frame.py) reads and processes the incoming data.
 
 🚀 Quick Start
+
 🛠 Requirements
 
 Arduino IDE (with board support for your microcontroller)
